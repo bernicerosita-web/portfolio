@@ -312,3 +312,9 @@ button:hover {
     box-shadow: 0 0 6px #e0aaff;
 }
 
+.line
+{
+    height: 2px;
+    background-color: #c77dff;
+    width: 100%;
+}
